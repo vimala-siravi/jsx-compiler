@@ -4,7 +4,7 @@ This project is about building a JSX Live Compiler as a React Component
 ## Getting Started
 Clone the repo
 ```
-https://github.com/vimbo95/jsx-compiler.git
+https://github.com/vimala95/jsx-compiler.git
 ```
 
 Install the dependencies
